@@ -1,0 +1,9 @@
+x = int(input("Enter first number: "))
+y = int(input("Enter second number: "))
+
+if(x>y):
+    print(x)
+elif(y>x):
+    print(y)
+else:
+    print("They're equal")

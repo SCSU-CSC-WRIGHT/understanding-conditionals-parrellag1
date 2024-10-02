@@ -1,0 +1,6 @@
+temp_c = int(input("Enter the current temp: "))
+
+if (temp_c>30):
+    print("it's a hot day")
+else:
+    print("The weather is cool")
